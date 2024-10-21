@@ -1,4 +1,4 @@
-# HOTEL-BOOKING-MANAGEMENT
+HOTEL-BOOKING-MANAGEMENT
 Clazire Hotel Booking System
 Welcome to the Clazire Hotel Booking System! This application allows users to book hotel rooms, select add-on services, and view their billing details in a simple and user-friendly manner.
 
@@ -28,7 +28,6 @@ Run the Application: Execute the compiled program:
 bash
 Copy code
 ./hotel_booking
-
 Usage
 Start the Program: Run the application as described above.
 View Offers: The application will display offers available for Normal and Luxury rooms.
@@ -42,3 +41,4 @@ Room: Base class for managing room bookings and charges.
 NormalRoom: Derived class for handling normal room bookings and discounts.
 LuxuryRoom: Derived class for managing luxury room bookings and discounts.
 main: The entry point of the program, handling user interaction and flow of the application.
+
